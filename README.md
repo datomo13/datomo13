@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @datomo13
+- 👀 I’m interested in computer science and collaborating on different personal projects.
+- 🌱 I’m currently learning computer science 
+- 💞️ I’m looking to collaborate on any small beginner projects to build some experience.
+- 📫 How to reach me rubiksdan12@gmail.com
